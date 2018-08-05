@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.deps.json
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.json
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.dev.json
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.dll
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.pdb
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.dll
+C:\Users\User\Desktop\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.pdb
